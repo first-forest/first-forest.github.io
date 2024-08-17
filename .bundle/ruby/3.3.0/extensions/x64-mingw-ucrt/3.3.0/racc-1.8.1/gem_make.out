@@ -1,0 +1,19 @@
+current directory: D:/ruby/rails/techlog-app/.bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+C:/Ruby33-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: D:/ruby/rails/techlog-app/.bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240817-2096-b36f8l sitelibdir\=./.gem.20240817-2096-b36f8l clean
+
+current directory: D:/ruby/rails/techlog-app/.bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240817-2096-b36f8l sitelibdir\=./.gem.20240817-2096-b36f8l
+generating cparse-x64-mingw-ucrt.def
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: D:/ruby/rails/techlog-app/.bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240817-2096-b36f8l sitelibdir\=./.gem.20240817-2096-b36f8l install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20240817-2096-b36f8l/racc
+
+current directory: D:/ruby/rails/techlog-app/.bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240817-2096-b36f8l sitelibdir\=./.gem.20240817-2096-b36f8l clean

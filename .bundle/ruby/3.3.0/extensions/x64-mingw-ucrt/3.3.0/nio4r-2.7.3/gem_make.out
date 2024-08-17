@@ -1,0 +1,18 @@
+current directory: D:/ruby/rails/techlog-app/.bundle/ruby/3.3.0/gems/nio4r-2.7.3/ext/nio4r
+C:/Ruby33-x64/bin/ruby.exe extconf.rb
+
+current directory: D:/ruby/rails/techlog-app/.bundle/ruby/3.3.0/gems/nio4r-2.7.3/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20240817-2096-vqtnve sitelibdir\=./.gem.20240817-2096-vqtnve clean
+make: *** ターゲット 'clean' を make するルールがありません.  中止.
+
+current directory: D:/ruby/rails/techlog-app/.bundle/ruby/3.3.0/gems/nio4r-2.7.3/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20240817-2096-vqtnve sitelibdir\=./.gem.20240817-2096-vqtnve
+make: 'all' に対して行うべき事はありません.
+
+current directory: D:/ruby/rails/techlog-app/.bundle/ruby/3.3.0/gems/nio4r-2.7.3/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20240817-2096-vqtnve sitelibdir\=./.gem.20240817-2096-vqtnve install
+make: 'install' に対して行うべき事はありません.
+
+current directory: D:/ruby/rails/techlog-app/.bundle/ruby/3.3.0/gems/nio4r-2.7.3/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20240817-2096-vqtnve sitelibdir\=./.gem.20240817-2096-vqtnve clean
+make: *** ターゲット 'clean' を make するルールがありません.  中止.
